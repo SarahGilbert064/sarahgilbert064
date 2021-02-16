@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Sarah! 👋 Welcome to my Github!
 
-[![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgilbert064&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgilbert064&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgilbert064&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgilbert064&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SarahGilbert064/sarahgilbert064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
